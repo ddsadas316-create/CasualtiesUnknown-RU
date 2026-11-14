@@ -47,6 +47,6 @@
 
 ## Нашли ошибку?
 
-Пишите в Issues или в комментарии к [руководству в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3838327960).
+Пишите в [Issues](https://github.com/ddsadas316-create/CasualtiesUnknown-RU/issues) или в комментарии к [руководству в Steam](https://steamcommunity.com/sharedfiles/filedetails/?id=3838327960).
 
 Укажите, где именно увидели ошибку (предмет, реплика, экран), что там написано сейчас и как, по-вашему, правильно.
