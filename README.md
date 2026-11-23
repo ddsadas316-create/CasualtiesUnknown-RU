@@ -3,7 +3,7 @@
 **Версия перевода:** 1.0.4 (бета)
 **Версия игры:** 1.0.2/Demo v7.0.1
 
-Полный неофициальный перевод Casualties: Unknown и демо версии на русский язык.
+Полный неофициальный перевод Casualties: Unknown и демо-версии на русский язык.
 
 ## Что переведено
 
@@ -30,18 +30,19 @@
 
 ## Установка
 
-**Если у вас не демо версия, пожалуйста скачивайте только `RU.json`, и наоборот, если демо версия, то только `RU_demo.json`!**
+**Если у вас не демо-версия, пожалуйста, скачивайте только `RU.json`, и наоборот, если демо-версия, то только `RU_demo.json`!**
 
-1. Скачайте `RU.json` (или для демо версии это `RU_demo.json`) со страницы [Releases](../../releases/latest).
+1. Скачайте `RU.json` (или для демо-версии это `RU_demo.json`) со страницы [Releases](../../releases/latest).
 2. В Steam нажмите правой кнопкой на игру → «Управление» → «Просмотреть локальные файлы».
 3. Откройте папку `CasualtiesUnknown_Data`, в ней - папку `Lang`.
-4. Положите туда `RU.json` (или для демо версии это `RU_demo.json`).
+4. Положите туда `RU.json` (или для демо-версии это `RU_demo.json`).
 5. Запустите игру, откройте **Settings** → **Language** и выберите «Русский».
 
-Обычно папка находится здесь: `C:\Program Files (x86)\Steam\steamapps\common\Casualties Unknown\CasualtiesUnknown_Data\Lang`
-А папка демо здесь: `C:\Program Files (x86)\Steam\steamapps\common\Casualties Unknown Demo\CasualtiesUnknown_Data\Lang`
+Обычно папка находится здесь: `C:\Program Files (x86)\Steam\steamapps\common\Casualties Unknown\CasualtiesUnknown_Data\Lang`.
 
-Чтобы обновить перевод, скачайте новую версию и замените старый `RU.json`.
+А папка демо здесь: `C:\Program Files (x86)\Steam\steamapps\common\Casualties Unknown Demo\CasualtiesUnknown_Data\Lang`.
+
+Чтобы обновить перевод, скачайте новую версию и замените старый `RU.json`/`RU_demo.json`.
 
 ## Известные проблемы
 
